@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nandinikumari12/DSA/tree/master/0148-sort-list) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Nandinikumari12/DSA/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nandinikumari12/DSA/tree/master/0225-implement-stack-using-queues) |
+## Array
+|  |
+| ------- |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Nandinikumari12/DSA/tree/master/3180-maximum-total-reward-using-operations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Nandinikumari12/DSA/tree/master/3180-maximum-total-reward-using-operations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Nandinikumari12/DSA/tree/master/3180-maximum-total-reward-using-operations-i) |
 <!---LeetCode Topics End-->
