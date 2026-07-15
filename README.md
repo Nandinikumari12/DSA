@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Nandinikumari12/DSA/tree/master/0148-sort-list) |
+| [0899-orderly-queue](https://github.com/Nandinikumari12/DSA/tree/master/0899-orderly-queue) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nandinikumari12/DSA/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Merge Sort
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Nandinikumari12/DSA/tree/master/3180-maximum-total-reward-using-operations-i) |
+## Math
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Nandinikumari12/DSA/tree/master/0899-orderly-queue) |
+## String
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Nandinikumari12/DSA/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
